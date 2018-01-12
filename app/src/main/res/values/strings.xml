@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDaggerPlayground</string>
+    <string name="title_activity_user_dependent">UserDependentActivity</string>
+</resources>
